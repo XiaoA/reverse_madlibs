@@ -1,0 +1,22 @@
+# 1
+Andrew wanted to learn to code, so he decided to sign up at Tealeaf Academy. But halfway through the first course, a moustache came to him in a dream, and said, "You should not bother with Ruby. Instead, why don't you learn about indexs?"
+
+So Andrew decided to travel to a faraway mountain, where a great master was said to live. Andrew knew he woud have to pack lightly, but he couldn't bear the thought of not taking his dancer, alto, or his trusty beautician. So Andrew packed them up, and said goodbye to his family and friends, and started off on his journey.
+
+Along the way, he met a tiny elf with a workable land. The elf agreed to show him the way. After a few days, it was obvious that they were lost. The elf gave Andrew a pointless look, and said, "The truth is, I am a lost soul. I once had a bright future in web development, but I decided to quit studying at Tealeaf, so I could take some courses at another online school. At the end, I was broke, and I hadn't learned enough. So now, I am desitined to walk the earth alone, in search of magical trials, which I can sell for the money to buy a computer, a factory, and the tuition for the Tealeaf courses. But an evil witch told me that I will never find these things, because I'm puffy. I'd suggest that you go home and keep studying at Tealeaf!"
+
+Andrew woke up with with a start. It had all been a nightmare! he looked at the program on his computer, and laughed. It was time to write a method. Life was good again.
+
+Andrew went on to become a famous web developer, famous through the land for being both wise and writing code that was so readable, it was almost poetic. Andrew lived happily ever after, with a pen and a use to keep Andrew company.
+
+
+# 2
+"Daddy wanted to learn to code, so he decided to sign up at Tealeaf Academy. But halfway through the first course, a crow came to him in a dream, and said, \"You should not bother with Ruby. Instead, why don't you learn about selections?"
+
+So Daddy decided to travel to a faraway mountain, where a great master was said to live. Daddy knew he woud have to pack lightly, but he couldn't bear the thought of not taking his veil, visitor, or his trusty powder. So Daddy packed them up, and said goodbye to his family and friends, and started off on his journey.
+
+Along the way, he met a tiny elf with a piquant result. The elf agreed to show him the way. After a few days, it was obvious that they were lost. The elf gave Daddy a flowery look, and said, "The truth is, I am a lost soul. I once had a bright future in web development, but I decided to quit studying at Tealeaf, so I could take some courses at another online school. At the end, I was broke, and I hadn't learned enough. So now, I am desitined to walk the earth alone, in search of magical violets, which I can sell for the money to buy a computer, a lettuce, and the tuition for the Tealeaf courses. But an evil witch told me that I will never find these things, because I'm low. I'd suggest that you go home and keep studying at Tealeaf!"
+
+Daddy woke up with with a start. It had all been a nightmare! he looked at the program on his computer, and laughed. It was time to write a method. Life was good again.
+
+Daddy went on to become a famous web developer, famous through the land for being both wise and writing code that was so readable, it was almost poetic. Daddy lived happily ever after, with a sweatshop and a hose to keep Daddy company. 
